@@ -24,4 +24,4 @@ for($i=5;$i>=1;$i--)
 	echo "<br>";
 }
 
-echo "Visha"; ?>
+echo "Vishal"; ?>
